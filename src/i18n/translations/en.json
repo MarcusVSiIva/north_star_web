@@ -1,0 +1,11 @@
+{
+    "translation": {      
+        "signIn": "Sign in to your account",
+        "emailAddress": "Email",
+        "password": "Password",
+        "forgotPassword": "Forgot password?",
+        "signInButton": "Sign in",
+        "noAccount": "Don't have an account?",
+        "signUpNow": "Sign up now"
+    }
+}

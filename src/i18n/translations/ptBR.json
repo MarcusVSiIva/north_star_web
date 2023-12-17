@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "signIn": "Faça login na sua conta",
+        "emailAddress": "E-mail",
+        "password": "Senha",
+        "forgotPassword": "Esqueceu a senha?",
+        "signInButton": "Entrar",
+        "noAccount": "Não tem uma conta?",
+        "signUpNow": "Registre-se agora"  
+    }
+}
