@@ -1,11 +1,15 @@
 {
     "translation": {      
-        "signIn": "Sign in to your account",
+        "signIn": "Sign in",
         "emailAddress": "Email",
         "password": "Password",
         "forgotPassword": "Forgot password?",
         "signInButton": "Sign in",
         "noAccount": "Don't have an account?",
-        "signUpNow": "Sign up now"
+        "signUpNow": "Sign up now",
+        "rememberMe": "Remember me",
+        "signUp": "Sign up",
+        "alreadyHaveAnAccount": "Already have an account?",
+        "confirmPassword": "Confirm password"
     }
 }

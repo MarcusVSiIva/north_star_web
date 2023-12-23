@@ -1,11 +1,15 @@
 {
     "translation": {
-        "signIn": "Faça login na sua conta",
+        "signIn": "Login",
         "emailAddress": "E-mail",
         "password": "Senha",
         "forgotPassword": "Esqueceu a senha?",
         "signInButton": "Entrar",
         "noAccount": "Não tem uma conta?",
-        "signUpNow": "Registre-se agora"  
+        "signUpNow": "Registre-se agora",
+        "rememberMe": "Lembre-se de mim",
+        "signUp": "Registre-se",
+        "alreadyHaveAnAccount": "Já tem uma conta?",
+        "confirmPassword": "Confirme a senha"
     }
 }
